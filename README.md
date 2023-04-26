@@ -50,11 +50,3 @@ To use this project, clone the repository and run the Jupyter Notebook file in y
 List any resources, tutorials, or libraries used in the project.
 
 This project is a DataCamp Intermdiate Python Project
-
-- Resource 1
-- Tutorial 2
-- Library 3
-
-## License
-
-This project is licensed under the DataCamp license. See the [LICENSE](LICENSE) file for details.
