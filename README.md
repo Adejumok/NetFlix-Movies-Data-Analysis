@@ -1,6 +1,6 @@
 # NetFlix-Movies-Data-Analysis
 
-This analysis investigates Netflix Movies and Guest Stars in The Office
+This analysis investigates Netflix Movies and Guest Stars in The Office. The analyses is done to ascertain if the average duration of movies has been declining
 
 ## Introduction
 
@@ -8,7 +8,7 @@ In this project, we analyze data using Python to gain insights and answer questi
 
 ## Data
 
-The data used in this project is [describe the data source and its format]. We import the data into our notebook and clean it as needed.
+The data used in this project is a CSV file containing Netflix data. We import the data into our notebook and clean it as needed.
 
 ## Analysis
 
@@ -48,6 +48,8 @@ To use this project, clone the repository and run the Jupyter Notebook file in y
 ## Credits
 
 List any resources, tutorials, or libraries used in the project.
+
+This project is a DataCamp Intermdiate Python Project
 
 - Resource 1
 - Tutorial 2
