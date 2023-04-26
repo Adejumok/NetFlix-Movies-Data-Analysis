@@ -25,7 +25,7 @@ We present our findings in this section using various visualizations such as gra
 
 ## Conclusion
 
-We conclude the project by summarizing our findings, discussing the limitations of our analysis, and suggesting areas for further research.
+Well, as we suspected, non-typical genres such as children's movies and documentaries are all clustered around the bottom half of the plot. But we can't know for certain until we perform additional analyses. We are not certain that movies are getting shorter.
 
 ## Dependencies
 
@@ -57,4 +57,4 @@ This project is a DataCamp Intermdiate Python Project
 
 ## License
 
-This project is licensed under the [insert license name]. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the DataCamp license. See the [LICENSE](LICENSE) file for details.
