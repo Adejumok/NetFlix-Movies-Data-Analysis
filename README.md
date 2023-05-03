@@ -1,6 +1,6 @@
 # NetFlix-Movies-Data-Analysis
 
-This analysis investigates Netflix Movies and Guest Stars in The Office. The analyses is done to ascertain if the average duration of movies has been declining
+This analysis investigates Netflix Movies and Guest Stars in The Office. The analyses is done to ascertain if the average duration of movies has been declining.
 
 ## Introduction
 
